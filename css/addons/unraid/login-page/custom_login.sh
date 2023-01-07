@@ -1,10 +1,10 @@
 #!/bin/bash
-TYPE="retro-terminal"
-THEME="green.css"
-DOMAIN="theme-park.dev"
+TYPE="alien"
+THEME="isolation_video.css"
+DOMAIN="Reknall.github.io"
 SCHEME="https"
 ADD_JS="true"
-JS="custom_text_header.js"
+JS="isolation.js"
 DISABLE_THEME="false"
 
 ## FAQ
